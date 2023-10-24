@@ -13,7 +13,7 @@ const Home = () => {
                     }}
             >
                 <Typography variant="h2">
-                    Welcome to Daiki Tanaka's page
+                    Welcome to Miao Jiang's page
                 </Typography>
             </Box>
         </Container>
