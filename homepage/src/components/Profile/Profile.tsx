@@ -12,7 +12,7 @@ const Profile = () => {
                 <Box sx={{textAlign: "start", marginTop: 3, marginBottom: 2}}>
                     <Stack>
                         <Typography variant="h4">
-                            Tanaka Daiki
+                            Miao Jiang
                         </Typography>
 
                         <Typography variant="h5">
