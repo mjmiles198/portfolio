@@ -11,7 +11,7 @@ function hoverOnImage () {
 
 
 function hoverOffImage () {
-    profilePic.src = "Resources/Images/patrick-green.jpg";
+    profilePic.src = "Resources/Images/generativeAI.png";
     profileBorder.style.top = "-220px";
     profileBorder.style.left = "30px";
 }
