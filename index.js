@@ -4,7 +4,7 @@ let profilePic = document.getElementById('profileGreen');
 let profileBorder = document.getElementById('boxborder');
 
 function hoverOnImage () {
-    profilePic.src = "Resources/Images/patrick.jpg";
+    profilePic.src = "Resources/Images/Miao.jpg";
     profileBorder.style.top = "-240px";
     profileBorder.style.left = "10px";
 }
